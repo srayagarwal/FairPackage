@@ -59,4 +59,4 @@ themis-ml==0.0.4
 tornado==6.0.2
 traitlets==4.3.2
 wcwidth==0.1.7
-Werkzeug==0.15.4
+Werkzeug==0.15.5
